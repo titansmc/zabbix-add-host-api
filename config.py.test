@@ -1,0 +1,4 @@
+# Test System
+host_group_id = 'XX'
+template_id = 'XXXXX'
+zabbix_url = 'http://example.com/zabbix/api_jsonrpc.php' 
