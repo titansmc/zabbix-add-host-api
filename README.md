@@ -1,7 +1,7 @@
 # What does it do?
-Work based on [srknc script] (https://github.com/srknc/zabbix-api-host-create)
+Work based on srknc script (https://github.com/srknc/zabbix-api-host-create)
 
-And used along with [this external ssl-check.sh] (https://github.com/titansmc/zabbix-ssl-check)
+And used along with this external ssl-check.sh (https://github.com/titansmc/zabbix-ssl-check)
 
 Creates a new host in which the HOST NAME will be the name of the service that we want to monitor and the DNS NAME will be the host where the service is running, well, it will actually be the first hop which is serving SSL certificate, it could be a reverse proxy serving several websites or a single webserver that serves either one or multiple websites
 
