@@ -28,3 +28,4 @@ python zabbix_create_host_api.py cloud.example.com opscl01.example.com
 ```
 python zabbix_create_host_api.py cloud.example.com opscl01.example.com 4443
 ```
+
